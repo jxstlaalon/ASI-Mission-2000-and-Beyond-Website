@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# We want Google to index the PDF reports
+Allow: /media/reports/
+
+# Link to the sitemap
+Sitemap: https://www.your-domain.com/sitemap.xml
